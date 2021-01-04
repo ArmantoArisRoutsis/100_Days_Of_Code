@@ -1,1 +1,1 @@
-You can view this application live by clicking [this link.](https://repl.it/@ArisRoutsis/calculator-final#main.py)
+You can view this application live by clicking [this link.](hhttps://repl.it/@ArisRoutsis/blackjack#art.py)
