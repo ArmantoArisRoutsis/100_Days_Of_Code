@@ -4,7 +4,7 @@
 
 ## Projects
 
-- ###### Day 11 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-12__Guess-The-Number) || [View Live](https://repl.it/@ArisRoutsis/guess-the-number)
+- ###### Day 12 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-12__Guess-The-Number) || [View Live](https://repl.it/@ArisRoutsis/guess-the-number)
 - ###### Day 11 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-11__BlackJack) || [View Live](https://repl.it/@ArisRoutsis/blackjack#art.py)
 - ###### Day 10 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-10__Calculator) || [View Live](https://repl.it/@ArisRoutsis/calculator-final#main.py)
 - ###### Day 09 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-09__Secret-Auction-Program) || [View Live](https://repl.it/@ArisRoutsis/blind-auction-start#main.py)
