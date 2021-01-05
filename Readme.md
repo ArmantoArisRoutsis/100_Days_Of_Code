@@ -4,6 +4,8 @@
 
 ## Projects
 
+- ###### Day 13 &
+- ###### Day 14 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-13_%26_Day14__Higher-Lower) || [View Live](https://repl.it/@ArisRoutsis/higher-lower#main.py)
 - ###### Day 12 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-12__Guess-The-Number) || [View Live](https://repl.it/@ArisRoutsis/guess-the-number#main.py)
 - ###### Day 11 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-11__BlackJack) || [View Live](https://repl.it/@ArisRoutsis/blackjack#art.py)
 - ###### Day 10 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-10__Calculator) || [View Live](https://repl.it/@ArisRoutsis/calculator-final#main.py)
