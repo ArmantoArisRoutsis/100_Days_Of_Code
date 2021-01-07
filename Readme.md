@@ -2,7 +2,7 @@
   <img src="./Logo.png" width="100%" title="hover text">
 </p>
 
-### The 100 days of code challenge
+### The 100 days of code challenge using the Python language
 
 ## Projects
 
