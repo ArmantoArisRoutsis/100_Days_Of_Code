@@ -4,6 +4,7 @@
 
 ## Projects
 
+- ###### Day 18 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-18__Hirst_Painting-Project) || [View Live](https://repl.it/@ArisRoutsis/quiz-game#main.py)
 - ###### Day 17 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-17__OOP-Quiz-Project) || [View Live](https://repl.it/@ArisRoutsis/quiz-game#main.py)
 - ###### Day 16 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-16__OOP-Coffee-Machine) || [View Live](https://repl.it/@ArisRoutsis/coffee-machine#main.py)
 - ###### Day 15 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-15__Coffee-Machine) || [View Live](https://repl.it/@ArisRoutsis/coffee-machine#main.py)
