@@ -1,4 +1,6 @@
-# 100 DAYS OF CODE WITH PYTHON
+<p align="center">
+  <img src="./Logo.png" width="100%" title="hover text">
+</p>
 
 ### The 100 days of code challenge
 
