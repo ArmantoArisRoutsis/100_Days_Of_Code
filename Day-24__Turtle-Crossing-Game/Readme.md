@@ -2,7 +2,9 @@
 
 # Day 23
 
-<p align="center">
-  <img src="./Turtle-Cross-Game-Sample.gif" min-width="300px" width="50%" title="hover text">
+### Turtle Crossing Game
+
+<p align="Left">
+  <img src="./Turtle-Cross-Game-Sample.gif" min-width="370px">
 </p>
-You can view this application live by clicking [this link.](https://repl.it/@ArisRoutsis/Pong-Game#main.py)
+You can view this application live by clicking [this link.](https://repl.it/@ArisRoutsis/Turtle-Crossing-Game#main.py)
