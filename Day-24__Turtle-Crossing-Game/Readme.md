@@ -5,6 +5,6 @@
 ### Turtle Crossing Game
 
 <p align="Left">
-  <img src="./Turtle-Cross-Game-Sample.gif" min-width="370px">
+  <img src="./Turtle-Cross-Game-Sample.gif" width="400px">
 </p>
 You can view this application live by clicking [this link.](https://repl.it/@ArisRoutsis/Turtle-Crossing-Game#main.py)
