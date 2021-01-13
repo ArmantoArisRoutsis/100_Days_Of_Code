@@ -6,6 +6,7 @@
 
 ## Projects
 
+- ###### Day 28 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-28__NATO-Phonetic-Alphabet) || [View Live](https://repl.it/@ArisRoutsis/NATO-Phonetic-Alphabet#main.py)
 - ###### Day 27 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-27__Guess-The-European-Country-Game) || [View Live](https://repl.it/@ArisRoutsis/Guess-The-European-Country-Game#main.py)
 - ###### Day 26 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-26__Guess-The-State-Game) || [View Live](https://repl.it/@ArisRoutsis/Guess-The-State-Game#main.py)
 - ###### Day 25 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-25__Mail-Merge) || [View Live](https://repl.it/@ArisRoutsis/Mail-Merge#main.py)
