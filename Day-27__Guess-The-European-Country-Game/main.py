@@ -2,7 +2,7 @@ import turtle
 import pandas
 
 data = pandas.read_csv("countries.csv")
-all_states = data.state.to_list()
+all_countries = data.state.to_list()
 
 screen = turtle.Screen()
 screen.setup()
@@ -17,19 +17,16 @@ turtle.shape(image)
 # turtle.onscreenclick(get_click)
 # turtle.mainloop()
 
-country_guessed = []
+countries_guessed = []
 while len(country_guessed)<37:
     answer_country = screen.textinput(title=f"({len(country_guessed)}/37 countries guessed).", prompt="Guess Another Country ").title()
 
     if answer_country == "Exit":
-        missing_countries = []
-        for i in all_states:
-            if i not in country_guessed:
-                missing_countries.append(i)
+        missing_countries = [country for country in all_countries if country not in countries_guessed]
         new_data = pandas.DataFrame(missing_countries)
         new_data.to_csv("countries_to_learn.csv")
         break
-    if answer_country in all_states:
+    if answer_country in all_countries:
         t = turtle.Turtle()
         t.hideturtle()
         t.penup()
