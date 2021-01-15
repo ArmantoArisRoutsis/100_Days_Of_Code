@@ -6,6 +6,7 @@
 
 ## Projects
 
+- ###### Day 31 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-31__Kanye-Quote-Api) || [View Live](https://repl.it/@ArisRoutsis/Kanye-Quote-Api#main.py)
 - ###### Day 30 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-30__Pomodoro-Timer) || [View Live](https://repl.it/@ArisRoutsis/Pomodoro-Timer#main.py)
 - ###### Day 29 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-29__Miles-To-Km-GUI) || [View Live](https://repl.it/@ArisRoutsis/MilesToKm#main.py)
 - ###### Day 28 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-28__NATO-Phonetic-Alphabet) || [View Live](https://repl.it/@ArisRoutsis/NATO-Phonetic-Alphabet#main.py)
