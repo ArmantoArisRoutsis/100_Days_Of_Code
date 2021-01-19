@@ -3,7 +3,7 @@
 # Day 31
 
 <p align="Left">
-  <img src="./Project-Sample.gif" width="300px">
+  <img src="./Project-Sample.gif" width="450px">
 </p>
 
 ### About This Project
