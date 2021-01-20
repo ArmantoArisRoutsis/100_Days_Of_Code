@@ -7,7 +7,7 @@
 ## Projects
 
 - ###### Day 36 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-36__ISS-Notifier) || [View Live](https://repl.it/@ArisRoutsis/ISS-Notifier#main.py)
-- ###### Day 32 & Day 33[Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-32_%26_Day-33__Password-Manager) || [View Live](https://repl.it/@ArisRoutsis/Password-Manager#main.py)
+- ###### Day 32 & Day 33 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-32_%26_Day-33__Password-Manager) || [View Live](https://repl.it/@ArisRoutsis/Password-Manager#main.py)
 - ###### Day 31 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-31__Kanye-Quote-API) || [View Live](https://repl.it/@ArisRoutsis/Kanye-Quote-Api#main.py)
 - ###### Day 30 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-30__Pomodoro-Timer) || [View Live](https://repl.it/@ArisRoutsis/Pomodoro-Timer#main.py)
 - ###### Day 29 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-29__Miles-To-Km-GUI) || [View Live](https://repl.it/@ArisRoutsis/MilesToKm#main.py)
