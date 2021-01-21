@@ -1,6 +1,6 @@
 ## 100 Days Of Code With Python
 
-# Day 31
+# Day 32 & Day 33
 
 <p align="Left">
   <img src="./Project-Sample.gif" width="700px">
