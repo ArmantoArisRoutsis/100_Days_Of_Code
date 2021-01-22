@@ -7,6 +7,7 @@
 ## Projects
 
 - ###### Day 36 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-36__ISS-Notifier) || [View Live](https://repl.it/@ArisRoutsis/ISS-Notifier#main.py)
+- ###### Day 35 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-35__Automated-Birthday-Whisher) || [View Live](https://repl.it/@ArisRoutsis/Automated-Birthday-Wisher#main.py)
 - ###### Day 34 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-34__FlashCard-Application) || [View Live](https://repl.it/@ArisRoutsis/FlashCard-Application#main.py)
 - ###### Day 32 & Day 33 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-32_%26_Day-33__Password-Manager) || [View Live](https://repl.it/@ArisRoutsis/Password-Manager#main.py)
 - ###### Day 31 [Repository](https://github.com/ArmantoArisRoutsis/100_Days_Of_Code/tree/main/Day-31__Kanye-Quote-API) || [View Live](https://repl.it/@ArisRoutsis/Kanye-Quote-Api#main.py)
