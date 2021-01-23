@@ -8,7 +8,7 @@
 
 ### About This Project
 
-#### This is a simple calculator that the user can input miles and convert them to Km. You can view this application live by clicking [this link.](https://repl.it/@ArisRoutsis/MilesToKm#main.py)
+#### This is a simple calculator that the user can input miles and convert them to Km. The UI of this application was made using Tkinter. You can view this application live by clicking [this link.](https://repl.it/@ArisRoutsis/MilesToKm#main.py)
 
 ### Technologies Used
 
